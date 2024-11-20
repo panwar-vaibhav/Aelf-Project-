@@ -1,0 +1,12 @@
+C:\Users\divyr\Documents\web3\todo-app\src\bin\Debug\net6.0\ToDoApp.deps.json
+C:\Users\divyr\Documents\web3\todo-app\src\bin\Debug\net6.0\ToDoApp.dll
+C:\Users\divyr\Documents\web3\todo-app\src\bin\Debug\net6.0\ToDoApp.pdb
+C:\Users\divyr\Documents\web3\todo-app\src\obj\Debug\net6.0\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\divyr\Documents\web3\todo-app\src\obj\Debug\net6.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divyr\Documents\web3\todo-app\src\obj\Debug\net6.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\divyr\Documents\web3\todo-app\src\obj\Debug\net6.0\ToDoApp.AssemblyInfo.cs
+C:\Users\divyr\Documents\web3\todo-app\src\obj\Debug\net6.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\divyr\Documents\web3\todo-app\src\obj\Debug\net6.0\ToDoApp.dll
+C:\Users\divyr\Documents\web3\todo-app\src\obj\Debug\net6.0\refint\ToDoApp.dll
+C:\Users\divyr\Documents\web3\todo-app\src\obj\Debug\net6.0\ToDoApp.pdb
+C:\Users\divyr\Documents\web3\todo-app\src\obj\Debug\net6.0\ref\ToDoApp.dll
